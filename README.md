@@ -4,7 +4,7 @@ This repository hosts the official Privacy Policy pages for the [**JBT - Jardim 
 
 ## 📌 Purpose
 Google Play requires that all apps provide a **publicly accessible, non-geofenced privacy policy**.  
-This repository ensures that the privacy policy for the JBT app is always available online, globally accessible, and version-controlled.
+This repository ensures that the privacy policy for the App JBT is always available online, globally accessible, and version-controlled.
 
 ## 🌍 Languages
 The privacy policies are available in:
