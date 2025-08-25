@@ -21,11 +21,11 @@
     // Detect browser language and redirect
     window.onload = function() {
       const lang = navigator.language || navigator.userLanguage;
-      let target = "terms_and_conditions_pt.html"; // default
+      let target = "pt/index.html"; // default
 
-      if (lang.startsWith("en")) target = "terms_and_conditions_en.html";
-      else if (lang.startsWith("fr")) target = "terms_and_conditions_fr.html";
-      else if (lang.startsWith("es")) target = "terms_and_conditions_es.html";
+      if (lang.startsWith("en")) target = "en/index.html";
+      else if (lang.startsWith("fr")) target = "fr/index.html";
+      else if (lang.startsWith("es")) target = "es/index.html";
 
       window.location.replace(target);
     }
@@ -36,10 +36,10 @@
     <h2>Redirecting to Privacy Policy…</h2>
     <p>If you are not redirected automatically, choose your language:</p>
     <ul style="list-style:none; padding:0;">
-      <li><a href="terms_and_conditions_pt.html">Português</a></li>
-      <li><a href="terms_and_conditions_en.html">English</a></li>
-      <li><a href="terms_and_conditions_fr.html">Français</a></li>
-      <li><a href="terms_and_conditions_es.html">Español</a></li>
+      <li><a href="pt/index.html">Português</a></li>
+      <li><a href="en/index.html">English</a></li>
+      <li><a href="fr/index.html">Français</a></li>
+      <li><a href="es/index.html">Español</a></li>
     </ul>
   </div>
 </body>
