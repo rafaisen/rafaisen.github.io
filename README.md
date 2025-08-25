@@ -1,6 +1,6 @@
 # Privacy Policy - App JBT (Jardim Botânico Tropical)
 
-This repository hosts the official Privacy Policy pages for the **JBT - Jardim Botânico Tropical** mobile application, published on Google Play (https://jbt.ulisboa.pt).
+This repository hosts the official Privacy Policy pages for the [**JBT - Jardim Botânico Tropical** mobile application](https://jbt.ulisboa.pt), published on Google Play and App Store.
 
 The privacy policies are available in multiple languages:
 
